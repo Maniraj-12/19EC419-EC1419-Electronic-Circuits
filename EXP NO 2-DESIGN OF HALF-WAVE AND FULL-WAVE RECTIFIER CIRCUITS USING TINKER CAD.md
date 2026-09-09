@@ -7,10 +7,3 @@
 <img width="613" height="121" alt="image" src="https://github.com/user-attachments/assets/676c5397-3c7c-4985-b376-2d3dbd73b1d9" />
 
 
-## tinker cad circuit diagram
-
-## ripple factor calculation
-
-## output graph
-
-## result
