@@ -5,8 +5,4 @@
 <img width="610" height="705" alt="image" src="https://github.com/user-attachments/assets/57d61277-f756-40b8-bb07-26816646e588" />
 
 
-## Kicad circuit diagram
 
-## output waveform
-
-## result
