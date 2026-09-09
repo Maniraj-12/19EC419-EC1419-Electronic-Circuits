@@ -8,23 +8,22 @@
 <img width="717" height="572" alt="image" src="https://github.com/user-attachments/assets/b5d68b8a-ef96-4b66-8478-b135403fd865" />
 <img width="586" height="707" alt="image" src="https://github.com/user-attachments/assets/43bc2a1b-6216-48b5-aaf3-857c36eb2586" />
 <img width="632" height="687" alt="image" src="https://github.com/user-attachments/assets/d7f34879-1ed5-46ef-ae94-63f0fe49acc2" />
-<img width="670" height="212" alt="image" src="https://github.com/user-attachments/assets/bc13bd31-7d40-4d98-93b6-75e3acce59f1" />
-
 
 ## circuit diagram
+<img width="1918" height="1032" alt="Screenshot 2026-09-09 082206" src="https://github.com/user-attachments/assets/75ba1293-aaf5-4fa6-b09f-9169a9be0580" />
 
 
 
-
-<img width="1438" height="1024" alt="image" src="https://github.com/user-attachments/assets/fed8147a-a105-476c-b348-1f494baf43cf" />
-
-
+## Graph
+<img width="1279" height="1002" alt="Screenshot 2026-09-09 082008" src="https://github.com/user-attachments/assets/5e0f9cee-443d-4072-acde-498b2965e21b" />
 
 
+## Result
+
+The Common Emitter Amplifier was constructed and the following results were observed.
+
+1. **Gain of the amplifier** — **31.3 dB**
+2. **Bandwidth of the amplifier** — **≈ 1.2 MHz**
+3. **Gain-Bandwidth Product** — **≈ 44 MHz**
 
 
-## graph
-
-## calculation
-
-## result
