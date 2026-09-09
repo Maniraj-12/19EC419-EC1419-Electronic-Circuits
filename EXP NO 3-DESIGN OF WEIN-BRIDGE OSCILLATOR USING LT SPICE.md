@@ -19,13 +19,3 @@
 <img width="707" height="473" alt="image" src="https://github.com/user-attachments/assets/cd04ef29-8f94-4be4-900f-29fd43d1932d" />
 
 
-## LT spice circuit diagram
-
-
-## LT spice output graph
-
-## Tabulation
-
-## calculation
-
-## result
