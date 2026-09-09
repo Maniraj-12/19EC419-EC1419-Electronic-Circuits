@@ -5,8 +5,3 @@
 <img width="612" height="143" alt="image" src="https://github.com/user-attachments/assets/aaee80f4-8cd4-4efc-9854-71763bcd4bfc" />
 
 
-## LT spice circuit diagram
-
-## output graph
-
-## result
