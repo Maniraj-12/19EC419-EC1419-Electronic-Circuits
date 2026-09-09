@@ -8,8 +8,3 @@
 <img width="622" height="172" alt="image" src="https://github.com/user-attachments/assets/d4958804-9629-445e-8652-f26394783512" />
 
 
-## Kicad circuit diagram
-
-## output waveform
-
-## result
