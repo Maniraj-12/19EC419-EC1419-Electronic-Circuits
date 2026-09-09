@@ -8,10 +8,3 @@
 <img width="540" height="138" alt="image" src="https://github.com/user-attachments/assets/37828781-c043-496d-9cbf-caafe7d24c44" />
 
 
-## tabulation
-
-## output graph sheet
-
-## calculation
-
-## result
