@@ -6,8 +6,3 @@
 <img width="635" height="122" alt="image" src="https://github.com/user-attachments/assets/f0c22cf2-9ee5-459a-91cb-8538411b8ffc" />
 
 
-## Kicad circuit diagram
-
-## PCB 3D view
-
-## result
