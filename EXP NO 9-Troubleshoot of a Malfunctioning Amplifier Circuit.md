@@ -7,8 +7,3 @@
 <img width="657" height="237" alt="image" src="https://github.com/user-attachments/assets/a0ed600c-09a4-4e95-abce-8df086ebec6b" />
 
 
-## Tabulation
-
-## attach semilog graph
-
-## result
