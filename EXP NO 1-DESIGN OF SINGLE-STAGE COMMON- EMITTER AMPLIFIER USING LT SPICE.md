@@ -13,6 +13,7 @@
 
 ## circuit diagram
 
+<img width="1438" height="1024" alt="image" src="https://github.com/user-attachments/assets/fed8147a-a105-476c-b348-1f494baf43cf" />
 
 
 
