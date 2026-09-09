@@ -6,8 +6,3 @@
 <img width="643" height="150" alt="image" src="https://github.com/user-attachments/assets/20f3fa20-64ed-4f77-bd24-223155f63f1d" />
 
 
-## tabulation
-
-## attach graph sheet
-
-## result
