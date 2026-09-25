@@ -9,7 +9,11 @@
 
 ## Tabulation
 
+<img width="449" height="627" alt="image" src="https://github.com/user-attachments/assets/8412ef4f-fcbd-4f93-b030-a005a57566c1" />
+
+
 ## attach semilog graph
-<img width="694" height="1024" alt="image" src="https://github.com/user-attachments/assets/799611e1-36be-4356-9ab9-662a45265ae1" />
+<img width="1032" height="1523" alt="image" src="https://github.com/user-attachments/assets/6d85b7b6-af4f-4300-99b2-b8308dea1ffc" />
+
 
 ## result
