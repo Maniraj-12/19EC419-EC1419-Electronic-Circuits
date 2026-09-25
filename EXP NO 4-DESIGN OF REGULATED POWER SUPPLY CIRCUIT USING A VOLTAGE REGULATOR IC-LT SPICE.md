@@ -6,9 +6,15 @@
 
 
 ## LT spice circuit diagram
+
 <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/8be6cb15-2d97-4db0-b04a-4b0307373f00" />
 
 
 ## output graph
 
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/4c720aca-525f-4b8b-a37a-b3a91dd9d638" />
+
+
 ## result
+
+Thus a regulated power supply circuit using a voltage regulator IC was designed and the circuit was simulated using LTspice and its performance for different load conditions was tested.
