@@ -7,6 +7,14 @@
 
 ## Kicad circuit diagram
 
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/599b9878-d1cd-49f0-8985-a855a751454a" />
+
+
 ## output waveform
 
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/fe9b9028-d8ef-43e0-bbf3-66654c01ed2a" />
+
+
 ## result
+
+Thus the temperature sensor circuit to display the output on an LCD was designed and simulated and the PCB for the circuit was created.
