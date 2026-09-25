@@ -14,6 +14,11 @@
 
 ## output waveform
 
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/438dffd7-0801-4cf3-9d1e-68cff88583a4" />
+
+
 
 
 ## result
+
+Thus the schematic of a single-stage amplifier was designed and its PCB layout was designed using industry-standard tools (e.g., KiCAD) and the design for fabrication was prepared.
