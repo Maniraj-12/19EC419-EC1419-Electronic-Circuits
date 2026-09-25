@@ -13,3 +13,5 @@
 <img width="683" height="726" alt="image" src="https://github.com/user-attachments/assets/aecf0fc7-2ee6-4bef-adcd-432ff0f405b1" />
 
 ## result
+
+The LED flasher PCB was successfully designed using KiCad, fabricated, assembled, and soldered. On applying the 9 V power supply, the two LEDs flashed alternately, confirming the proper operation of the circuit.
