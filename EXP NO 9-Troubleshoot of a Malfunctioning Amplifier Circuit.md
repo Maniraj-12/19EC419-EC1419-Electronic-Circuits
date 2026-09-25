@@ -10,5 +10,6 @@
 ## Tabulation
 
 ## attach semilog graph
+<img width="694" height="1024" alt="image" src="https://github.com/user-attachments/assets/799611e1-36be-4356-9ab9-662a45265ae1" />
 
 ## result
